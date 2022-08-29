@@ -1,14 +1,1 @@
-[
-   {
-      "titulo": "Hola mami",
-      "estado": "terminada"
-   },
-   {
-      "titulo": "Oso del polo norte",
-      "estado": "en proceso"
-   },
-   {
-      "titulo": "Bicicleta",
-      "estado": "pendiente"
-   }
-]
+[{"titulo":"Hola mami","estado":"terminada"},{"titulo":"Oso del polo norte","estado":"en proceso"},{"titulo":"Bicicleta","estado":"pendiente"},{"titulo":"Leer el principe","estado":"pendiente"},{"titulo":"Comprar leche","estado":"pendiente"}]
