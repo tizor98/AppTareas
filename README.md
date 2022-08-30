@@ -1,3 +1,5 @@
 # AppTareas
 
-Proyecto inicial de clase para crear una aplicación de notas
+Proyecto aplicación de Notas.
+
+Se construyó un tracker de notas con 4 acciones: listar, crear, borrar, filtrar.
